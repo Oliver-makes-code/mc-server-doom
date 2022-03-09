@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "olivermakesco.de.mcdoom.mixin.ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
